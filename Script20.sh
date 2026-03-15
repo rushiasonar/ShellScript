@@ -1,6 +1,6 @@
 #!/bin/sh
 
-count=1
+count=5
 
 until [ "$count" -gt 5 ]
 do
